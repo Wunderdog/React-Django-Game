@@ -1,0 +1,22 @@
+// https://codyparker.com/django-channels-with-react/4/
+
+mkdir [Project Name]
+cd [Project Name]
+
+// Install node package manager
+
+// Create package.json
+    npm init    // follow utility prompt
+
+npm install --save-dev 
+    react 
+    react-dom 
+    webpack 
+    webpack-bundle-tracker 
+    babel-core 
+    babel 
+    babel-loader 
+    babel-preset-es2015 
+    react-websocket 
+    babel-preset-react 
+    jquery
